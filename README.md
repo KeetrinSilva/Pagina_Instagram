@@ -1,2 +1,2 @@
 # Pagina_Instagram
-Recriando a página inicial do Instagram
+Desafio DIO para recriar a página inicial do Instagram utilizando CSS Flexbox.
